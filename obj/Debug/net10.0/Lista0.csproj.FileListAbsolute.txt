@@ -1,0 +1,14 @@
+/home/kawiri/Documents/prog/Lista0/bin/Debug/net10.0/Lista0
+/home/kawiri/Documents/prog/Lista0/bin/Debug/net10.0/Lista0.deps.json
+/home/kawiri/Documents/prog/Lista0/bin/Debug/net10.0/Lista0.runtimeconfig.json
+/home/kawiri/Documents/prog/Lista0/bin/Debug/net10.0/Lista0.dll
+/home/kawiri/Documents/prog/Lista0/bin/Debug/net10.0/Lista0.pdb
+/home/kawiri/Documents/prog/Lista0/obj/Debug/net10.0/Lista0.GeneratedMSBuildEditorConfig.editorconfig
+/home/kawiri/Documents/prog/Lista0/obj/Debug/net10.0/Lista0.AssemblyInfoInputs.cache
+/home/kawiri/Documents/prog/Lista0/obj/Debug/net10.0/Lista0.AssemblyInfo.cs
+/home/kawiri/Documents/prog/Lista0/obj/Debug/net10.0/Lista0.csproj.CoreCompileInputs.cache
+/home/kawiri/Documents/prog/Lista0/obj/Debug/net10.0/Lista0.dll
+/home/kawiri/Documents/prog/Lista0/obj/Debug/net10.0/refint/Lista0.dll
+/home/kawiri/Documents/prog/Lista0/obj/Debug/net10.0/Lista0.pdb
+/home/kawiri/Documents/prog/Lista0/obj/Debug/net10.0/Lista0.genruntimeconfig.cache
+/home/kawiri/Documents/prog/Lista0/obj/Debug/net10.0/ref/Lista0.dll
